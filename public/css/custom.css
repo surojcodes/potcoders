@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+body{
+    font-family: 'Raleway', sans-serif ;
+}
+.mt-nav{
+    margin-top:6.2em;
+}
+.navbar-brand{
+    font-size: 1.4em;
+}
+.active{
+    background-color:#28a745 !important;
+    color:white  !important;
+    border-radius: 0.2em;
+}
+.display-5{
+    font-size: 2.5em;
+}
+.scard {
+    border:1px solid #ccc;
+    box-shadow: 2px 2px 5px #ccc;
+    border-radius: 0.5em;
+    padding:0.6em;
+}
+/* PAGINATION */
+.pagination {
+    justify-content: center !important;
+ }
+.pagination > li > a,
+.pagination > li > span {
+    color: #111 !important; 
+}
+
+.pagination > .active > a,
+.pagination > .active > a:focus,
+.pagination > .active > a:hover,
+.pagination > .active > span,
+.pagination > .active > span:focus,
+.pagination > .active > span:hover {
+    background-color: #28a745 !important;
+    border-color: #28a745 !important;
+}
+input[type=email]:focus,input[type=password]:focus,input[type=text]:focus,textarea:focus{
+    outline:#28a745;
+    box-shadow: 1px 1px 1px #28a745;
+}
+/* CHECKBOX */
+  .custom-checkbox .custom-control-input:checked~.custom-control-label::before{
+      border:none;
+    background-color:#28a745 !important;
+    /* box-shadow: 1px 1px 4px #28a745; */
+  }
+  .custom-checkbox .custom-control-input:focus~.custom-control-label::before{
+    box-shadow:  0 0 0 1px #28a745; 
+}
+/* SLIDER */
+.custom-range::-webkit-slider-thumb {
+  background: #28a745 !important;
+}
+.custom-range::-moz-range-thumb {
+  background:#28a745 !important;
+}
+/*
+.custom-range::-ms-thumb {
+  background:#28a745!important;
+} */
