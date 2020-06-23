@@ -62,14 +62,14 @@ A very simple user interface using Bootstrap 4.0 which makes the site fully resp
 ## What can be added?
 * Soft Deletes
 * PUblish/Save Drafts
-* ckeditor for blog content
+* WYSIWYG for blog content
 * Like and Comment Feature to blog posts
 * Image upload for blog and user profile
 
 *Send me a pull request.*
 *** 
 ## Demo
-Website is live at 
+Website is live [here](http://potcoders.herokuapp.com/)
 * Version **1.0**
 * Author **Suroj Maharjan**
 
