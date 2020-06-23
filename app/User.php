@@ -43,7 +43,7 @@ class User extends Authenticatable
         return 'name';
     }
     public function isAdmin(){
-        if(Auth::user()->name==='admin')
+        if(Auth::user()->isAdmin)
             return true;
         return false;
     }
