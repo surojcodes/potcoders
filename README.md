@@ -11,7 +11,7 @@ First perform the migration for the tables in the database
 ```
 php artisan migrate
 ```
-####To run server
+#### To run server
 ```
 php artisan serve
 ```
