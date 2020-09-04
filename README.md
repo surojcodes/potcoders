@@ -68,7 +68,27 @@ A very simple user interface using Bootstrap 4.0 which makes the site fully resp
 
 *Send me a pull request.*
 *** 
-## Demo
+## Screenshot
+![alt tag](https://surojmaharjan0.github.io/projectimages/images/pot1.PNG)
+***
+![alt tag](https://surojmaharjan0.github.io/projectimages/images/pot2.PNG)
+***
+![alt tag](https://surojmaharjan0.github.io/projectimages/images/pot3.PNG)
+***
+![alt tag](https://surojmaharjan0.github.io/projectimages/images/pot4.PNG)
+***
+![alt tag](https://surojmaharjan0.github.io/projectimages/images/pot5.PNG)
+***
+![alt tag](https://surojmaharjan0.github.io/projectimages/images/pot6.PNG)
+***
+![alt tag](https://surojmaharjan0.github.io/projectimages/images/pot7.PNG)
+***
+![alt tag](https://surojmaharjan0.github.io/projectimages/images/pot8.PNG)
+***
+![alt tag](https://surojmaharjan0.github.io/projectimages/images/pot9.PNG)
+***
+![alt tag](https://surojmaharjan0.github.io/projectimages/images/pot10.PNG)
+***
 Website is live [here](http://potcoders.herokuapp.com/)
 * Version **1.0**
 * Author **Suroj Maharjan**
